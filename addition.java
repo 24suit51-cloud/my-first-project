@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class add
+class addition
 {
     public static void main(String args[]){
         int a=100;
